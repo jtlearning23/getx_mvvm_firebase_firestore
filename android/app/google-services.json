@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153003713679",
+    "project_id": "getx-mvvm-firebase",
+    "storage_bucket": "getx-mvvm-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153003713679:android:b0fde93a972b8c13e43cfa",
+        "android_client_info": {
+          "package_name": "com.example.getx_mvvm_firebase_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6w3WIeRcSo_JeZNMf47r-g8b2WSEzQ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
